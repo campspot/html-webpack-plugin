@@ -12,7 +12,7 @@
     "prepublish": "npm run test",
     "pretest": "semistandard",
     "build-examples": "node examples/build-examples.js",
-    "test": ""
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
